@@ -12,6 +12,10 @@ Original README:
 
 It took me 17 minutes to get it running locally. I already had the Together and Exa API keys.
 
+<em>A demo search of [How fast can an elephant run?], run locally.</em>
+
+<img src="https://github.com/archignes/forked-simplicity/assets/6070690/44a57b0d-b3db-4a0e-97be-16ceef9db67f" alt="Demo search of How fast can an elephant run?" width="500" height="300">
+
 
 ## Setup
 
